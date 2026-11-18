@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "reviewed_on": "2026-11-18",
-  "purpose": "Curated Arabic and Israeli TV channel names; not a playlist or free access to pay TV",
+  "purpose": "Selected Arabic, Israeli and requested documentary network channel directory. Metadata only unless linked in channels.json. Not an unrestricted global channel list.",
   "stream_catalog": "channels.json",
   "interpretation": {
     "in_existing_stream_catalog": "A stream entry exists but playback is not guaranteed",
-    "metadata_only_no_verified_stream": "Channel identified from published network lineup but no matching stream entry yet; do not present as playable"
+    "metadata_only_no_verified_stream": "Channel listing only; NO verified stream URL or assured app playback. A satellite FTA listing is not internet streaming."
   },
   "historical_note": "Orbit was a former pay-TV brand combined with Showtime to form OSN; historical Orbit channels are not treated as current channels.",
   "summary": {
-    "total_reviewed": 101,
+    "total_reviewed": 110,
     "already_in_stream_catalog": 24,
-    "new_metadata_only": 77,
+    "new_metadata_only": 86,
     "by_network": {
       "ART": {
         "total": 5,
@@ -48,6 +48,10 @@
       "Local": {
         "total": 1,
         "missing": 1
+      },
+      "National Geographic": {
+        "total": 9,
+        "missing": 9
       }
     }
   },
@@ -1263,6 +1267,132 @@
       "current_stream_check": null,
       "stream_url": null,
       "source_url": "https://ehna.tv/"
+    },
+    {
+      "id": "curated-natgeo-001",
+      "name": "National Geographic Abu Dhabi",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "arabic",
+      "language": "Arabic",
+      "region": "Middle East / North Africa",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://www.admn.ae/en/brand/4197604/national-geographic-abu-dhabi"
+    },
+    {
+      "id": "curated-natgeo-002",
+      "name": "National Geographic (Israel)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "israeli",
+      "language": "Regional channel; available through Israeli providers",
+      "region": "Israel",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://specials-sire.techops.disn.io/howtoget/natgeo/il/index.html"
+    },
+    {
+      "id": "curated-natgeo-003",
+      "name": "Nat Geo Wild (Israel)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "israeli",
+      "language": "Regional channel; available through Israeli providers",
+      "region": "Israel",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://specials-sire.techops.disn.io/howtoget/natgeo/il/index.html"
+    },
+    {
+      "id": "curated-natgeo-004",
+      "name": "National Geographic (English / international)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "English",
+      "region": "International / selected providers",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://www.natgeotv.com/il"
+    },
+    {
+      "id": "curated-natgeo-005",
+      "name": "Nat Geo Wild (English / international)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "English",
+      "region": "International / selected providers",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://www.natgeotv.com/il"
+    },
+    {
+      "id": "curated-natgeo-006",
+      "name": "National Geographic (France)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "French",
+      "region": "France",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://www.nationalgeographic.fr/comment-recevoir"
+    },
+    {
+      "id": "curated-natgeo-007",
+      "name": "National Geographic (Deutschland)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "German",
+      "region": "Germany",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://wowi.astra.de/channels/national-geographic-deutschland"
+    },
+    {
+      "id": "curated-natgeo-008",
+      "name": "Nat Geo Wild (Deutschland)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "German",
+      "region": "Germany",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://astra.de/channels/national-geographic-wild-deutschland"
+    },
+    {
+      "id": "curated-natgeo-009",
+      "name": "National Geographic (España)",
+      "network": "National Geographic",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "Spanish",
+      "region": "Spain",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://www.movistarplus.es/canal/national-geographic?id=natgeo"
     }
   ]
 }
