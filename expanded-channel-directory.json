@@ -9,9 +9,9 @@
   },
   "historical_note": "Orbit was a former pay-TV brand combined with Showtime to form OSN; historical Orbit channels are not treated as current channels.",
   "summary": {
-    "total_reviewed": 110,
+    "total_reviewed": 111,
     "already_in_stream_catalog": 24,
-    "new_metadata_only": 86,
+    "new_metadata_only": 87,
     "by_network": {
       "ART": {
         "total": 5,
@@ -52,6 +52,10 @@
       "National Geographic": {
         "total": 9,
         "missing": 9
+      },
+      "Animal Planet": {
+        "total": 1,
+        "missing": 1
       }
     }
   },
@@ -1393,6 +1397,21 @@
       "current_stream_check": null,
       "stream_url": null,
       "source_url": "https://www.movistarplus.es/canal/national-geographic?id=natgeo"
+    },
+    {
+      "id": "curated-animalplanet-001",
+      "name": "Animal Planet",
+      "network": "Animal Planet",
+      "category": "documentary",
+      "scope": "selected_international",
+      "language": "English (edition unspecified)",
+      "region": "International / provider dependent",
+      "status": "metadata_only_no_verified_stream",
+      "current_channel_id": null,
+      "current_stream_check": null,
+      "stream_url": null,
+      "source_url": "https://press.wbd.com/us/na/brands/animal-planet/media-releases",
+      "note": "Official network exists; live stream typically requires provider entitlement. IPTV-org upstream blocklist includes some Animal Planet editions. Do not treat unverified third-party links as playable."
     }
   ]
 }
