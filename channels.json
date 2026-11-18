@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T19:02:50+00:00",
+  "generated_at": "2026-11-18T20:00:39+00:00",
   "sources": {
     "arabic": "https://iptv-org.github.io/iptv/languages/ara.m3u",
     "israeli": "https://iptv-org.github.io/iptv/countries/il.m3u"
@@ -22,7 +22,7 @@
           "url": "http://185.9.2.18/chid_218/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -46,7 +46,7 @@
           "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:50+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -70,8 +70,8 @@
           "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:39+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -94,7 +94,7 @@
           "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -118,7 +118,7 @@
           "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -142,7 +142,7 @@
           "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
           "source": "israeli",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -166,7 +166,7 @@
           "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -190,7 +190,7 @@
           "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -214,7 +214,7 @@
           "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
           "source": "israeli",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -238,7 +238,7 @@
           "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -262,7 +262,7 @@
           "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -286,7 +286,7 @@
           "url": "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -310,7 +310,7 @@
           "url": "https://hls.afintl.com/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -334,7 +334,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -358,7 +358,7 @@
           "url": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:39+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -382,7 +382,7 @@
           "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -406,7 +406,7 @@
           "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -430,7 +430,7 @@
           "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -454,7 +454,7 @@
           "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -478,7 +478,7 @@
           "url": "http://82.212.74.98:8000/live/7815.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -502,7 +502,7 @@
           "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -527,7 +527,7 @@
           "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -551,7 +551,7 @@
           "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -575,7 +575,7 @@
           "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -599,7 +599,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -623,7 +623,7 @@
           "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -647,7 +647,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -671,7 +671,7 @@
           "url": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:51+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -695,7 +695,7 @@
           "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -719,7 +719,7 @@
           "url": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -743,7 +743,7 @@
           "url": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -767,7 +767,7 @@
           "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -791,7 +791,7 @@
           "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -815,7 +815,7 @@
           "url": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:40+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -839,7 +839,7 @@
           "url": "http://185.9.2.18/chid_391/mono.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -863,7 +863,7 @@
           "url": "https://live.alissahost.net/hls/test.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -887,7 +887,7 @@
           "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -911,7 +911,7 @@
           "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -935,7 +935,7 @@
           "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -959,7 +959,7 @@
           "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -983,7 +983,7 @@
           "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1007,7 +1007,7 @@
           "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1031,7 +1031,7 @@
           "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1055,7 +1055,7 @@
           "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1079,7 +1079,7 @@
           "url": "http://185.9.2.18/chid_205/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:52+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1103,7 +1103,7 @@
           "url": "https://starmenajo.com/hls/almasar/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1127,7 +1127,7 @@
           "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1150,14 +1150,14 @@
         {
           "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
           "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
-          "consecutive_failures": 0
+          "status": "unavailable",
+          "checked_at": "2026-11-18T20:00:42+00:00",
+          "consecutive_failures": 1
         }
       ],
       "active": true,
       "missing_cycles": 0,
-      "availability": "reachable"
+      "availability": "unverified"
     },
     {
       "id": "almasirahmubacher-ye-sd",
@@ -1175,7 +1175,7 @@
           "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1199,7 +1199,7 @@
           "url": "http://185.9.2.18/chid_247/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1223,7 +1223,7 @@
           "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1247,7 +1247,7 @@
           "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1271,7 +1271,7 @@
           "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1295,7 +1295,7 @@
           "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1319,7 +1319,7 @@
           "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1343,7 +1343,7 @@
           "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1367,7 +1367,7 @@
           "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1391,7 +1391,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1415,7 +1415,7 @@
           "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1439,7 +1439,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1463,7 +1463,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1487,7 +1487,7 @@
           "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1511,7 +1511,7 @@
           "url": "http://185.9.2.18/chid_144/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1535,7 +1535,7 @@
           "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1559,7 +1559,7 @@
           "url": "https://indexforce.com/newshighres/mystream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1583,7 +1583,7 @@
           "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1607,7 +1607,7 @@
           "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1631,7 +1631,7 @@
           "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:53+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1655,7 +1655,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1679,7 +1679,7 @@
           "url": "https://alaimma.tv/live/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1703,7 +1703,7 @@
           "url": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1727,7 +1727,7 @@
           "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:42+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1751,7 +1751,7 @@
           "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1775,7 +1775,7 @@
           "url": "https://edge.fastpublish.me/live/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1799,8 +1799,8 @@
           "url": "http://37.238.136.61/hls/stream.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:43+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -1823,7 +1823,7 @@
           "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1846,14 +1846,14 @@
         {
           "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
           "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
-          "consecutive_failures": 0
+          "status": "unavailable",
+          "checked_at": "2026-11-18T20:00:43+00:00",
+          "consecutive_failures": 1
         }
       ],
       "active": true,
       "missing_cycles": 0,
-      "availability": "reachable"
+      "availability": "unverified"
     },
     {
       "id": "alsouriyatv-sy-hd",
@@ -1871,7 +1871,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1895,7 +1895,7 @@
           "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1919,7 +1919,7 @@
           "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1943,7 +1943,7 @@
           "url": "http://live2.alalam.ir/alalam.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1967,7 +1967,7 @@
           "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -1991,7 +1991,7 @@
           "url": "https://live.alawla.tv/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2015,7 +2015,7 @@
           "url": "http://82.212.74.2:8000/live/7307.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2039,7 +2039,7 @@
           "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2063,7 +2063,7 @@
           "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2087,7 +2087,7 @@
           "url": "http://185.9.2.18/chid_423/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2111,7 +2111,7 @@
           "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2135,7 +2135,7 @@
           "url": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2159,7 +2159,7 @@
           "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2183,7 +2183,7 @@
           "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2207,7 +2207,7 @@
           "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2231,7 +2231,7 @@
           "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:43+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2255,7 +2255,7 @@
           "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:54+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2279,7 +2279,7 @@
           "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2303,7 +2303,7 @@
           "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2327,7 +2327,7 @@
           "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2351,7 +2351,7 @@
           "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2375,7 +2375,7 @@
           "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2399,7 +2399,7 @@
           "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2423,7 +2423,7 @@
           "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2447,7 +2447,7 @@
           "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2471,7 +2471,7 @@
           "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2495,7 +2495,7 @@
           "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2519,7 +2519,7 @@
           "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2543,7 +2543,7 @@
           "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2567,7 +2567,7 @@
           "url": "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2591,7 +2591,7 @@
           "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2615,7 +2615,7 @@
           "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2639,7 +2639,7 @@
           "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2663,7 +2663,7 @@
           "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2687,7 +2687,7 @@
           "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2710,14 +2710,14 @@
         {
           "url": "https://live-news.asharq.com/asharq.m3u8",
           "source": "arabic",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "status": "reachable",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
       "active": true,
       "missing_cycles": 0,
-      "availability": "unverified"
+      "availability": "reachable"
     },
     {
       "id": "asharqradio-sa-sd",
@@ -2735,7 +2735,7 @@
           "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:55+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2759,7 +2759,7 @@
           "url": "https://live.asil.tv/asiltv/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2783,7 +2783,7 @@
           "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2807,7 +2807,7 @@
           "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2831,7 +2831,7 @@
           "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2855,7 +2855,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2879,8 +2879,8 @@
           "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
-          "consecutive_failures": 1
+          "checked_at": "2026-11-18T20:00:45+00:00",
+          "consecutive_failures": 2
         }
       ],
       "active": true,
@@ -2903,7 +2903,7 @@
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2927,7 +2927,7 @@
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2951,7 +2951,7 @@
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2975,7 +2975,7 @@
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -2999,7 +2999,7 @@
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3023,7 +3023,7 @@
           "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3047,7 +3047,7 @@
           "url": "https://vg162.adcdsd123321.shop/7.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:45+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3071,7 +3071,7 @@
           "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3095,7 +3095,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3119,7 +3119,7 @@
           "url": "http://149.100.11.252:8000/play/a056/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3143,7 +3143,7 @@
           "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3168,7 +3168,7 @@
           "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:56+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3192,7 +3192,7 @@
           "url": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3216,7 +3216,7 @@
           "url": "http://stream.mcquack.net/295/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3240,7 +3240,7 @@
           "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3264,7 +3264,7 @@
           "url": "http://stream.mcquack.net/42/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3288,7 +3288,7 @@
           "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3312,7 +3312,7 @@
           "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3336,7 +3336,7 @@
           "url": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3360,7 +3360,7 @@
           "url": "https://live.creacast.com/cna/stream/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3384,7 +3384,7 @@
           "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3408,7 +3408,7 @@
           "url": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3432,7 +3432,7 @@
           "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3456,7 +3456,7 @@
           "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:46+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3480,7 +3480,7 @@
           "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3504,7 +3504,7 @@
           "url": "https://stream.cisk.tech/drpal/index.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3528,8 +3528,8 @@
           "url": "http://185.9.2.18/chid_139/index.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:47+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -3552,7 +3552,7 @@
           "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3576,7 +3576,7 @@
           "url": "https://9090video.mobtada.com/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3600,7 +3600,7 @@
           "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3624,7 +3624,7 @@
           "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3648,8 +3648,8 @@
           "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:47+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -3672,7 +3672,7 @@
           "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:57+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3696,7 +3696,7 @@
           "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3720,7 +3720,7 @@
           "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3744,7 +3744,7 @@
           "url": "https://tv.elyssatv.com/live/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3768,7 +3768,7 @@
           "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3792,7 +3792,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3816,7 +3816,7 @@
           "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3840,7 +3840,7 @@
           "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3864,7 +3864,7 @@
           "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:47+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3888,7 +3888,7 @@
           "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3913,7 +3913,7 @@
           "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3937,7 +3937,7 @@
           "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3961,7 +3961,7 @@
           "url": "http://stream.mcquack.net/47/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -3985,7 +3985,7 @@
           "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4008,14 +4008,14 @@
         {
           "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8",
           "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
-          "consecutive_failures": 1
+          "status": "reachable",
+          "checked_at": "2026-11-18T20:00:48+00:00",
+          "consecutive_failures": 0
         }
       ],
       "active": true,
       "missing_cycles": 0,
-      "availability": "unverified"
+      "availability": "reachable"
     },
     {
       "id": "halatv-il-sd",
@@ -4035,7 +4035,7 @@
           "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4059,7 +4059,7 @@
           "url": "https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4083,7 +4083,7 @@
           "url": "http://89.33.29.115:8080/Health/index.m3u8",
           "source": "israeli",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4107,7 +4107,7 @@
           "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4131,7 +4131,7 @@
           "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4155,7 +4155,7 @@
           "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4179,7 +4179,7 @@
           "url": "http://stream.mcquack.net/44/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:58+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4203,7 +4203,7 @@
           "url": "http://stream.mcquack.net/381/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4227,7 +4227,7 @@
           "url": "http://stream.mcquack.net/379/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4251,8 +4251,8 @@
           "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:48+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -4275,7 +4275,7 @@
           "url": "https://live.i-news.tv/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4301,7 +4301,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4325,7 +4325,7 @@
           "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:48+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4349,7 +4349,7 @@
           "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4373,7 +4373,7 @@
           "url": "https://live.presstv.co.uk/hls/ifilmar.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4397,7 +4397,7 @@
           "url": "http://ar.imamhossaintv.com/live/ih2.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4421,7 +4421,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4445,7 +4445,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4469,7 +4469,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4493,7 +4493,7 @@
           "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4518,7 +4518,7 @@
           "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4542,7 +4542,7 @@
           "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:02:59+00:00",
+          "checked_at": "2026-11-18T20:00:49+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4566,7 +4566,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4590,7 +4590,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4614,7 +4614,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4638,7 +4638,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4662,7 +4662,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4686,7 +4686,7 @@
           "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4710,7 +4710,7 @@
           "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4734,7 +4734,7 @@
           "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4758,7 +4758,7 @@
           "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4782,7 +4782,7 @@
           "url": "http://82.212.74.2:8000/live/7311.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4806,7 +4806,7 @@
           "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4830,7 +4830,7 @@
           "url": "http://stream.mcquack.net/378/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4855,7 +4855,7 @@
           "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4879,7 +4879,7 @@
           "url": "http://stream.mcquack.net/294/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4903,7 +4903,7 @@
           "url": "http://stream.mcquack.net/48/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4927,7 +4927,7 @@
           "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4952,7 +4952,7 @@
           "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:00+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -4976,7 +4976,7 @@
           "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:50+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5000,7 +5000,7 @@
           "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5024,7 +5024,7 @@
           "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5048,7 +5048,7 @@
           "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5072,7 +5072,7 @@
           "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5096,7 +5096,7 @@
           "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5120,7 +5120,7 @@
           "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5144,7 +5144,7 @@
           "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5168,7 +5168,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5192,7 +5192,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5216,7 +5216,7 @@
           "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5240,7 +5240,7 @@
           "url": "http://185.9.2.18/chid_327/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5264,7 +5264,7 @@
           "url": "http://185.9.2.18/chid_521/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5288,8 +5288,8 @@
           "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:51+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -5312,7 +5312,7 @@
           "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5336,7 +5336,7 @@
           "url": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5360,7 +5360,7 @@
           "url": "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5384,7 +5384,7 @@
           "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5408,7 +5408,7 @@
           "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5432,7 +5432,7 @@
           "url": "https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5456,7 +5456,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5483,7 +5483,7 @@
           "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:01+00:00",
+          "checked_at": "2026-11-18T20:00:51+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5507,7 +5507,7 @@
           "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5531,7 +5531,7 @@
           "url": "https://vmi747311.contaboserver.net/hls/livetv.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5555,7 +5555,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5579,7 +5579,7 @@
           "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5603,8 +5603,8 @@
           "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:52+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -5627,7 +5627,7 @@
           "url": "https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5651,7 +5651,7 @@
           "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5675,7 +5675,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5699,7 +5699,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5723,7 +5723,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5747,7 +5747,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5771,7 +5771,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5795,7 +5795,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5819,7 +5819,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5843,7 +5843,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5867,7 +5867,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5891,7 +5891,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5915,7 +5915,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5939,7 +5939,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5963,7 +5963,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5987,7 +5987,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6011,7 +6011,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6036,7 +6036,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:02+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6060,7 +6060,7 @@
           "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6084,7 +6084,7 @@
           "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6108,7 +6108,7 @@
           "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6132,7 +6132,7 @@
           "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6156,7 +6156,7 @@
           "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6180,7 +6180,7 @@
           "url": "https://live.miracleonline.org/hls/miracle1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6204,7 +6204,7 @@
           "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6228,7 +6228,7 @@
           "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6252,7 +6252,7 @@
           "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6276,7 +6276,7 @@
           "url": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6300,7 +6300,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:52+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6324,7 +6324,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6348,7 +6348,7 @@
           "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6372,7 +6372,7 @@
           "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6396,7 +6396,7 @@
           "url": "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6420,7 +6420,7 @@
           "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6444,7 +6444,7 @@
           "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6468,7 +6468,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6492,7 +6492,7 @@
           "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6516,7 +6516,7 @@
           "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6540,7 +6540,7 @@
           "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6564,8 +6564,8 @@
           "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:54+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -6588,7 +6588,7 @@
           "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:03+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6612,7 +6612,7 @@
           "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6637,7 +6637,7 @@
           "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6662,7 +6662,7 @@
           "url": "http://185.9.2.18/chid_352/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6686,7 +6686,7 @@
           "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6710,7 +6710,7 @@
           "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6734,7 +6734,7 @@
           "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6758,7 +6758,7 @@
           "url": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6782,7 +6782,7 @@
           "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6806,7 +6806,7 @@
           "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6830,7 +6830,7 @@
           "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6854,7 +6854,7 @@
           "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6878,7 +6878,7 @@
           "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:53+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6902,7 +6902,7 @@
           "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6926,7 +6926,7 @@
           "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6950,7 +6950,7 @@
           "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6974,7 +6974,7 @@
           "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6998,7 +6998,7 @@
           "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:04+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7022,7 +7022,7 @@
           "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7046,8 +7046,8 @@
           "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:56+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -7070,7 +7070,7 @@
           "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7094,7 +7094,7 @@
           "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7118,7 +7118,7 @@
           "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7142,7 +7142,7 @@
           "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7166,7 +7166,7 @@
           "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:54+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7190,7 +7190,7 @@
           "url": "https://cdn.bestream.io/prime/prime.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7214,7 +7214,7 @@
           "url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7238,7 +7238,7 @@
           "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7262,7 +7262,7 @@
           "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7286,7 +7286,7 @@
           "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7310,7 +7310,7 @@
           "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7334,7 +7334,7 @@
           "url": "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7358,7 +7358,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7382,7 +7382,7 @@
           "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7406,7 +7406,7 @@
           "url": "http://45.63.116.205/hls2/stream1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7430,7 +7430,7 @@
           "url": "http://45.63.116.205/hls4/stream1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:05+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7454,7 +7454,7 @@
           "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7478,7 +7478,7 @@
           "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7502,7 +7502,7 @@
           "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7526,7 +7526,7 @@
           "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7550,7 +7550,7 @@
           "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7574,7 +7574,7 @@
           "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7598,7 +7598,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7622,7 +7622,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7646,7 +7646,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:55+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7670,7 +7670,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7694,7 +7694,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7718,7 +7718,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7742,7 +7742,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7766,7 +7766,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7790,7 +7790,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7814,7 +7814,7 @@
           "url": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7838,7 +7838,7 @@
           "url": "http://45.63.116.205/hls/stream1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7862,7 +7862,7 @@
           "url": "http://45.63.116.205/hls3/stream1.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7886,7 +7886,7 @@
           "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7910,7 +7910,7 @@
           "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7934,7 +7934,7 @@
           "url": "http://213.91.179.28:8000/play/a0bw",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7958,7 +7958,7 @@
           "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -7982,7 +7982,7 @@
           "url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8006,7 +8006,7 @@
           "url": "https://live.bradosti.net/live/samaraweb_playlist.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8030,7 +8030,7 @@
           "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8055,7 +8055,7 @@
           "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8079,7 +8079,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8103,7 +8103,7 @@
           "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8127,7 +8127,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8151,7 +8151,7 @@
           "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:06+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8175,7 +8175,7 @@
           "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8199,7 +8199,7 @@
           "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8223,7 +8223,7 @@
           "url": "https://stream.shams.tv/hls/stream.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8247,7 +8247,7 @@
           "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8271,7 +8271,7 @@
           "url": "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8295,7 +8295,7 @@
           "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8319,7 +8319,7 @@
           "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:56+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8343,7 +8343,7 @@
           "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8367,7 +8367,7 @@
           "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8391,7 +8391,7 @@
           "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8415,7 +8415,7 @@
           "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8439,7 +8439,7 @@
           "url": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8463,7 +8463,7 @@
           "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8487,7 +8487,7 @@
           "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8511,7 +8511,7 @@
           "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8535,7 +8535,7 @@
           "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8559,7 +8559,7 @@
           "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8583,7 +8583,7 @@
           "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8607,7 +8607,7 @@
           "url": "https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8631,7 +8631,7 @@
           "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8655,7 +8655,7 @@
           "url": "https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8679,7 +8679,7 @@
           "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
           "source": "israeli",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8703,7 +8703,7 @@
           "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:07+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8727,7 +8727,7 @@
           "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:01:00+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8751,7 +8751,7 @@
           "url": "http://62.60.207.173:8080/hls/thaqalayn/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8775,7 +8775,7 @@
           "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8",
           "source": "israeli",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8799,7 +8799,7 @@
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:57+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8823,7 +8823,7 @@
           "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8847,7 +8847,7 @@
           "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:10+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8871,7 +8871,7 @@
           "url": "http://176.65.153.26:6004/play/a02s/index.m3u8",
           "source": "arabic",
           "status": "restricted_or_unknown",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8895,7 +8895,7 @@
           "url": "http://185.9.2.18/chid_347/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8919,8 +8919,8 @@
           "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
           "source": "arabic",
           "status": "unavailable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
-          "consecutive_failures": 5
+          "checked_at": "2026-11-18T20:00:59+00:00",
+          "consecutive_failures": 6
         }
       ],
       "active": true,
@@ -8943,7 +8943,7 @@
           "url": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8967,7 +8967,7 @@
           "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -8991,7 +8991,7 @@
           "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9015,7 +9015,7 @@
           "url": "http://stream.mcquack.net/43/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9039,7 +9039,7 @@
           "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9063,7 +9063,7 @@
           "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:58+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9087,7 +9087,7 @@
           "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9111,7 +9111,7 @@
           "url": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9135,7 +9135,7 @@
           "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9159,7 +9159,7 @@
           "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9183,7 +9183,7 @@
           "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9207,7 +9207,7 @@
           "url": "http://stream.mcquack.net/46/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9231,7 +9231,7 @@
           "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
           "source": "arabic",
           "status": "redirect_unchecked",
-          "checked_at": "2026-11-18T19:03:08+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9255,7 +9255,7 @@
           "url": "http://stream.mcquack.net/380/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9279,7 +9279,7 @@
           "url": "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
           "source": "arabic",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9303,7 +9303,7 @@
           "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",
           "source": "arabic",
           "status": "unknown",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9327,7 +9327,7 @@
           "url": "http://stream.mcquack.net/377/index.m3u8",
           "source": "israeli",
           "status": "reachable",
-          "checked_at": "2026-11-18T19:03:09+00:00",
+          "checked_at": "2026-11-18T20:00:59+00:00",
           "consecutive_failures": 0
         }
       ],
