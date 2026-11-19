@@ -1410,8 +1410,29 @@
       "current_channel_id": null,
       "current_stream_check": null,
       "stream_url": null,
-      "source_url": "https://press.wbd.com/us/na/brands/animal-planet/media-releases",
-      "note": "Official network exists; live stream typically requires provider entitlement. IPTV-org upstream blocklist includes some Animal Planet editions. Do not treat unverified third-party links as playable."
+      "source_url": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
+      "note": "Official subscription providers in Israel; no public licensed free HLS URL verified. Provider app access must be used, no guarantee of app compatibility or direct deeplink. A program listing is not a live stream.",
+      "provider_access_only": true,
+      "watch_options": [
+        {
+          "provider": "Cellcom tv+",
+          "official_channel_list": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
+          "android_tv_package": "com.cellcom.cellcom_tv",
+          "requires_eligible_subscription": true
+        },
+        {
+          "provider": "HOT",
+          "official_channel_list": "https://www.hot.net.il/heb/tv/channels/hotchannels/",
+          "android_tv_package": "il.net.hot.hot",
+          "requires_eligible_subscription": true
+        },
+        {
+          "provider": "yes+",
+          "official_channel_list": "https://www.yes.co.il/documents/35670/21867153/channelssc.pdf",
+          "android_tv_package": "il.co.yes.yesplus",
+          "requires_eligible_subscription": true
+        }
+      ]
     }
   ]
 }
