@@ -1411,26 +1411,35 @@
       "current_stream_check": null,
       "stream_url": null,
       "source_url": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
-      "note": "Official subscription providers in Israel; no public licensed free HLS URL verified. Provider app access must be used, no guarantee of app compatibility or direct deeplink. A program listing is not a live stream.",
+      "note": "Official provider channel numbers: Cellcom tv+ 94, HOT 178, yes+ 47 (published lineups; subject to change and platform differences). A compatible app and channel entitlement are required. No authorized public stream URL for the independent Mi Box player was established.",
       "provider_access_only": true,
       "watch_options": [
         {
           "provider": "Cellcom tv+",
           "official_channel_list": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
           "android_tv_package": "com.cellcom.cellcom_tv",
-          "requires_eligible_subscription": true
+          "requires_eligible_subscription": true,
+          "channel_number": "94",
+          "direct_stream": false,
+          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
         },
         {
           "provider": "HOT",
           "official_channel_list": "https://www.hot.net.il/heb/tv/channels/hotchannels/",
           "android_tv_package": "il.net.hot.hot",
-          "requires_eligible_subscription": true
+          "requires_eligible_subscription": true,
+          "channel_number": "178",
+          "direct_stream": false,
+          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
         },
         {
           "provider": "yes+",
           "official_channel_list": "https://www.yes.co.il/documents/35670/21867153/channelssc.pdf",
           "android_tv_package": "il.co.yes.yesplus",
-          "requires_eligible_subscription": true
+          "requires_eligible_subscription": true,
+          "channel_number": "47",
+          "direct_stream": false,
+          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
         }
       ]
     }
