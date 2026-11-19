@@ -9,9 +9,9 @@
   },
   "historical_note": "Orbit was a former pay-TV brand combined with Showtime to form OSN; historical Orbit channels are not treated as current channels.",
   "summary": {
-    "total_reviewed": 111,
+    "total_reviewed": 110,
     "already_in_stream_catalog": 24,
-    "new_metadata_only": 87,
+    "new_metadata_only": 86,
     "by_network": {
       "ART": {
         "total": 5,
@@ -52,10 +52,6 @@
       "National Geographic": {
         "total": 9,
         "missing": 9
-      },
-      "Animal Planet": {
-        "total": 1,
-        "missing": 1
       }
     }
   },
@@ -1397,51 +1393,6 @@
       "current_stream_check": null,
       "stream_url": null,
       "source_url": "https://www.movistarplus.es/canal/national-geographic?id=natgeo"
-    },
-    {
-      "id": "curated-animalplanet-001",
-      "name": "Animal Planet",
-      "network": "Animal Planet",
-      "category": "documentary",
-      "scope": "selected_international",
-      "language": "English (edition unspecified)",
-      "region": "International / provider dependent",
-      "status": "metadata_only_no_verified_stream",
-      "current_channel_id": null,
-      "current_stream_check": null,
-      "stream_url": null,
-      "source_url": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
-      "note": "Official provider channel numbers: Cellcom tv+ 94, HOT 178, yes+ 47 (published lineups; subject to change and platform differences). A compatible app and channel entitlement are required. No authorized public stream URL for the independent Mi Box player was established.",
-      "provider_access_only": true,
-      "watch_options": [
-        {
-          "provider": "Cellcom tv+",
-          "official_channel_list": "https://cellcom.co.il/production/Private/cellcomtv/channels/",
-          "android_tv_package": "com.cellcom.cellcom_tv",
-          "requires_eligible_subscription": true,
-          "channel_number": "94",
-          "direct_stream": false,
-          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
-        },
-        {
-          "provider": "HOT",
-          "official_channel_list": "https://www.hot.net.il/heb/tv/channels/hotchannels/",
-          "android_tv_package": "il.net.hot.hot",
-          "requires_eligible_subscription": true,
-          "channel_number": "178",
-          "direct_stream": false,
-          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
-        },
-        {
-          "provider": "yes+",
-          "official_channel_list": "https://www.yes.co.il/documents/35670/21867153/channelssc.pdf",
-          "android_tv_package": "il.co.yes.yesplus",
-          "requires_eligible_subscription": true,
-          "channel_number": "47",
-          "direct_stream": false,
-          "launch_note": "Official TV app only; open listed channel after login with eligible subscription"
-        }
-      ]
     }
   ]
 }
